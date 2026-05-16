@@ -21,7 +21,10 @@
 * ⚙️ **Languages:** C++, Python
 * 🗼 **Development Environment:** Git, Linux / Ubuntu
 
-## 🛰️ Flight Telemetry (GitHub Stats)
+### 🗂️ Other projects / Interests
+* **Web development:** npm, React, FastAPI, TypeScript
+* **Databases:** SQLite3
+* **Once scraped some online web-game data:** Deobfuscation, Regex
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erdnzsali&show_icons=true&theme=tokyonight&locale=en" alt="" />
@@ -33,8 +36,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdnzsali&layout=compact&theme=tokyonight&locale=en" alt="" />
 </div>
-
-## 🗂️ Other projects / Interests
-* **Web development:** npm, React, Fastapi, TypeScript
-* **Databases:** SQLite3
-* **Once scraped some online web-game data:** Deobfuscation, Regex
