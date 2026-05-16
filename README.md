@@ -12,7 +12,7 @@
 
 ## 📋 Current Mission
 
-- 🛩️ Engineering and simulating autonomous flights. Working on advanced pursuit, navigation, path following, image processing topics and similar topics.
+- 🛩️ Engineering and simulating autonomous flights. Working on advanced pursuit, navigation, path following, image processing and similar topics.
 
 ## 🛠️ Tools i use
 
